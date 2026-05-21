@@ -48,7 +48,4 @@ Before you begin, ensure you have the following installed:
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
 ### 1. Start the Infrastructure (Docker)
-Ensure your Docker daemon is running, then spin up the required services (Postgres, Redis, MinIO):
-
-```bash
-docker-compose up -d
+Ensure your Docker daemon is running, then spin up the required services (Postgres, Redis, MinIO)
