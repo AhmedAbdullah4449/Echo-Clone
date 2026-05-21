@@ -1,6 +1,6 @@
 # Echo-Clone 🎙️
 
-Echo-Clone is a full-stack mobile application that allows users to create stories and generate custom audio using voice profiles. Built with a React Native (Expo) frontend and a robust Node.js/Dockerized backend, it seamlessly handles text-to-speech generation, story management, and secure audio storage.
+Echo-Clone is a full-stack mobile application that allows users to create stories and generate custom audio using voice profiles. Built with a React Native (Expo) frontend and a robust FASTAPI/Dockerized backend, it seamlessly handles text-to-speech generation, story management, and secure audio storage.
 
 ## Features
 
