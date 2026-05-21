@@ -44,7 +44,6 @@ The PostgreSQL database (`vocal_db`) consists of the following core tables:
 
 ### Prerequisites
 Before you begin, ensure you have the following installed:
-- [Node.js](https://nodejs.org/) (v16+)
 - [Docker](https://www.docker.com/) & Docker Compose
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
